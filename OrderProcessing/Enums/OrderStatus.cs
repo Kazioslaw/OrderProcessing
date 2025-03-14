@@ -5,7 +5,6 @@
 		New,
 		InWarehouse,
 		InDelivery,
-		Sended,
 		ReturnedToCustomer,
 		Error,
 		Closed
